@@ -9,7 +9,7 @@ Building enterprise web applications, offline-resilient distributed systems, and
 
 ## Featured Work
 
-### 1. Innivo — Hotel Management & Operating System (PMS)
+### 1. Innivo — Hotel Management & Operating System (PMS) ( in devolopement) 
 *Enterprise-Grade SaaS • High Architectural Complexity*
 
 A comprehensive multi-tenant operating system managing end-to-end hotel operations, financial ledgers, and guest lifecycles.
